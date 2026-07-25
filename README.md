@@ -1,5 +1,10 @@
 # 🛒 SuperKart Sales Prediction & Business Intelligence Dashboard
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-success)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+
+
 An AI-powered retail sales prediction project developed during the NTI AI for Business Training Program.
 
 ## 📌 Project Overview
@@ -136,3 +141,9 @@ SuperKart-Sales-Prediction/
 ## ⭐ Acknowledgment
 
 This project was developed as part of the **NTI AI for Business Training Program**, focusing on applying Machine Learning techniques to solve real-world retail business problems.
+
+## 🔗 GitHub Repository
+
+Explore the complete source code, documentation, and project files:
+
+🔗 [SuperKart Sales Prediction Repository](https://github.com/mostafashora09-svg/SuperKart-Sales-Prediction)
